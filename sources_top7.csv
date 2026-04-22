@@ -1,0 +1,85 @@
+﻿категория,тип_запроса,домен,тип,used_count,total_count,usage_rate
+baby care,брендовый,market.yandex.ru,маркетплейс,30,41,73.2
+baby care,брендовый,detmir.ru,маркетплейс,23,32,71.9
+baby care,брендовый,ozon.ru,маркетплейс,23,35,65.7
+baby care,брендовый,apteka.ru,перекуп,13,23,56.5
+baby care,брендовый,wildberries.ru,маркетплейс,11,22,50.0
+baby care,брендовый,votonia.ru,перекуп,10,11,90.9
+baby care,брендовый,megapteka.ru,перекуп,9,14,64.3
+baby care,категорийный,ozon.ru,маркетплейс,25,31,80.6
+baby care,категорийный,market.yandex.ru,маркетплейс,24,29,82.8
+baby care,категорийный,wildberries.ru,маркетплейс,19,23,82.6
+baby care,категорийный,detmir.ru,маркетплейс,11,14,78.6
+baby care,категорийный,deti.mail.ru,обзор,8,11,72.7
+baby care,категорийный,apteka.ru,перекуп,7,10,70.0
+baby care,категорийный,vc.ru,обзор,7,11,63.6
+baby care,консультационный,deti.mail.ru,обзор,19,29,65.5
+baby care,консультационный,vc.ru,обзор,18,32,56.2
+baby care,консультационный,kp.ru,обзор,11,17,64.7
+baby care,консультационный,huggies.ru,сайт бренда,8,12,66.7
+baby care,консультационный,edadeal.ru,обзор,6,8,75.0
+baby care,консультационный,t-j.ru,обзор,6,7,85.7
+baby care,консультационный,detmir.ru,маркетплейс,5,10,50.0
+baby care,сравнительный,deti.mail.ru,обзор,19,23,82.6
+baby care,сравнительный,vc.ru,обзор,6,15,40.0
+baby care,сравнительный,t-j.ru,обзор,5,7,71.4
+baby care,сравнительный,bestproducts.mail.ru,обзор,4,4,100.0
+baby care,сравнительный,ozon.ru,маркетплейс,4,13,30.8
+baby care,сравнительный,dtf.ru,обзор,3,5,60.0
+baby care,сравнительный,dzen.ru,обзор,3,6,50.0
+hair care,брендовый,market.yandex.ru,маркетплейс,51,58,87.9
+hair care,брендовый,ozon.ru,маркетплейс,27,35,77.1
+hair care,брендовый,poryadok.ru,перекуп,27,31,87.1
+hair care,брендовый,goldapple.ru,перекуп,16,28,57.1
+hair care,брендовый,wildberries.ru,маркетплейс,15,19,78.9
+hair care,брендовый,apteka.ru,перекуп,11,18,61.1
+hair care,брендовый,uteka.ru,перекуп,9,12,75.0
+hair care,категорийный,ozon.ru,маркетплейс,24,35,68.6
+hair care,категорийный,market.yandex.ru,маркетплейс,20,25,80.0
+hair care,категорийный,lady.mail.ru,обзор,16,21,76.2
+hair care,категорийный,wildberries.ru,маркетплейс,14,22,63.6
+hair care,категорийный,kp.ru,обзор,10,17,58.8
+hair care,категорийный,apteka.ru,перекуп,7,8,87.5
+hair care,категорийный,letu.ru,перекуп,6,9,66.7
+hair care,консультационный,market.yandex.ru,маркетплейс,11,17,64.7
+hair care,консультационный,invitro.ru,экспертный ресурс,10,10,100.0
+hair care,консультационный,kp.ru,обзор,10,11,90.9
+hair care,консультационный,linline-clinic.ru,экспертный ресурс,10,11,90.9
+hair care,консультационный,ozon.ru,маркетплейс,10,17,58.8
+hair care,консультационный,wildberries.ru,маркетплейс,9,14,64.3
+hair care,консультационный,stolichki.ru,перекуп,8,12,66.7
+hair care,сравнительный,kp.ru,обзор,3,3,100.0
+hair care,сравнительный,hairgloss.ru,обзор,2,2,100.0
+hair care,сравнительный,lady.mail.ru,обзор,2,4,50.0
+hair care,сравнительный,vc.ru,обзор,2,4,50.0
+hair care,сравнительный,dtf.ru,обзор,1,1,100.0
+hair care,сравнительный,dzen.ru,обзор,1,4,25.0
+hair care,сравнительный,esteticshop.ru,обзор,1,2,50.0
+oral care,брендовый,market.yandex.ru,маркетплейс,29,43,67.4
+oral care,брендовый,ozon.ru,маркетплейс,24,26,92.3
+oral care,брендовый,oralb-russia.ru,сайт бренда,22,43,51.2
+oral care,брендовый,braun-russia.ru,сайт бренда,21,33,63.6
+oral care,брендовый,doctorslon.ru,перекуп,18,29,62.1
+oral care,брендовый,wildberries.ru,маркетплейс,17,18,94.4
+oral care,брендовый,apteka.ru,перекуп,16,26,61.5
+oral care,категорийный,market.yandex.ru,маркетплейс,11,20,55.0
+oral care,категорийный,kp.ru,обзор,9,12,75.0
+oral care,категорийный,ozon.ru,маркетплейс,9,20,45.0
+oral care,категорийный,apteka.ru,перекуп,8,9,88.9
+oral care,категорийный,doctorslon.ru,перекуп,5,7,71.4
+oral care,категорийный,health.mail.ru,обзор,5,10,50.0
+oral care,категорийный,megapteka.ru,перекуп,5,5,100.0
+oral care,консультационный,dzen.ru,обзор,11,21,52.4
+oral care,консультационный,kp.ru,обзор,10,19,52.6
+oral care,консультационный,belgraviadent.ru,экспертный ресурс,6,6,100.0
+oral care,консультационный,megapteka.ru,перекуп,6,7,85.7
+oral care,консультационный,health.mail.ru,обзор,5,8,62.5
+oral care,консультационный,zdoroviemed.ru,экспертный ресурс,5,6,83.3
+oral care,консультационный,dentika.ru,экспертный ресурс,4,11,36.4
+oral care,сравнительный,tehnobzor.ru,обзор,11,14,78.6
+oral care,сравнительный,dtf.ru,обзор,10,10,100.0
+oral care,сравнительный,dzen.ru,обзор,8,20,40.0
+oral care,сравнительный,uteka.ru,экспертный ресурс,7,14,50.0
+oral care,сравнительный,megapteka.ru,перекуп,6,7,85.7
+oral care,сравнительный,www.kp.ru,обзор,6,7,85.7
+oral care,сравнительный,club.dns-shop.ru,обзор,4,6,66.7

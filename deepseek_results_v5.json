@@ -1,0 +1,2219 @@
+[
+  {
+    "request_key": "зубная паста для лечения десен",
+    "raw_text": "",
+    "response": {
+      "raw_response": ""
+    }
+  },
+  {
+    "request_key": "blend a med с углем",
+    "raw_text": "{\n  \"blend a med с углем\": {\n    \"категория\": \"oral care\",\n    \"запрос\": \"blend a med с углем\",\n    \"тип_запроса\": \"брендовый\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://uteka.ru/product/blend-a-med-pasta-zubnaya-3d-white-glubokaya-chistka-381775/\",\n        \"домен\": \"uteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://gorzdrav.org/p/blendamed-zub-pasta-3d-vajt-otbel-glubokaja-chistka-drevesnyj-ugol-100ml-333056/\",\n        \"домен\": \"gorzdrav.org\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://poryadok.ru/catalog/zubnaya_pasta/552454/\",\n        \"домен\": \"poryadok.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://market.yandex.ru/card/zubnaya-pasta-blend-a-med-3d-white-otbelivaniye-i-glubokaya-chistka-s-drevesnym-uglem-100-ml/102138849885\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.eapteka.ru/goods/id498033/\",\n        \"домен\": \"eapteka.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"перекуп\",\n    \"домены_источников\": \"uteka.ru, gorzdrav.org, poryadok.ru, market.yandex.ru, eapteka.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"P&G\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": []\n  }\n}",
+    "response": {
+      "blend a med с углем": {
+        "категория": "oral care",
+        "запрос": "blend a med с углем",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://uteka.ru/product/blend-a-med-pasta-zubnaya-3d-white-glubokaya-chistka-381775/",
+            "домен": "uteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://gorzdrav.org/p/blendamed-zub-pasta-3d-vajt-otbel-glubokaja-chistka-drevesnyj-ugol-100ml-333056/",
+            "домен": "gorzdrav.org",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://poryadok.ru/catalog/zubnaya_pasta/552454/",
+            "домен": "poryadok.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://market.yandex.ru/card/zubnaya-pasta-blend-a-med-3d-white-otbelivaniye-i-glubokaya-chistka-s-drevesnym-uglem-100-ml/102138849885",
+            "домен": "market.yandex.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.eapteka.ru/goods/id498033/",
+            "домен": "eapteka.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "перекуп",
+        "домены_источников": "uteka.ru, gorzdrav.org, poryadok.ru, market.yandex.ru, eapteka.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": []
+      }
+    }
+  },
+  {
+    "request_key": "гель для душа old spice wolfthorn",
+    "raw_text": "```json\n{\n    \"гель для душа old spice wolfthorn\": {\n        \"категория\": \"hair care\",\n        \"запрос\": \"гель для душа old spice wolfthorn\",\n        \"тип_запроса\": \"брендовый\",\n        \"нерелевантный_запрос\": false,\n        \"источники\": [\n            {\n                \"url\": \"https://poryadok.ru/catalog/geli_dlya_dusha/2269164/\",\n                \"домен\": \"poryadok.ru\",\n                \"used\": true,\n                \"тип\": \"перекуп\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://lenta.com/product/gel-dlya-dusha-wolfthorn-franciya-675ml-576800/\",\n                \"домен\": \"lenta.com\",\n                \"used\": true,\n                \"тип\": \"маркетплейс\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://goldapple.ru/19000037341-wolfthorn\",\n                \"домен\": \"goldapple.ru\",\n                \"used\": true,\n                \"тип\": \"маркетплейс\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://Megapteka.ru/moskva/catalog/bannye-serii-28/old-spice-gel-4484154\",\n                \"домен\": \"Megapteka.ru\",\n                \"used\": true,\n                \"тип\": \"перекуп\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://www.onlinetrade.ru/catalogue/geli_i_masla_dlya_dusha-c3631/old_spice/gel_dlya_dusha_old_spice_wolfthorn_400_ml_4084500978973-1883725.html\",\n                \"домен\": \"onlinetrade.ru\",\n                \"used\": true,\n                \"тип\": \"маркетплейс\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            }\n        ],\n        \"тип_источника_доминирующий\": \"маркетплейс\",\n        \"домены_источников\": \"poryadok.ru, lenta.com, goldapple.ru, Megapteka.ru, onlinetrade.ru\",\n        \"есть_ли_pg\": \"Да\",\n        \"конкуренты\": \"\",\n        \"кто_выигрывает\": \"P&G\",\n        \"антилидер\": \"\",\n        \"ссылка_на_антилидера\": \"\",\n        \"пробелы\": [\n            {\n                \"тип\": \"P&G не лидирует в рекомендации\",\n                \"лидер\": \"маркетплейсы и перекупы\",\n                \"комментарий\": \"Нет ссылок на официальные ресурсы P&G\"\n            }\n        ]\n    }\n}\n```",
+    "response": {
+      "гель для душа old spice wolfthorn": {
+        "категория": "hair care",
+        "запрос": "гель для душа old spice wolfthorn",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://poryadok.ru/catalog/geli_dlya_dusha/2269164/",
+            "домен": "poryadok.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://lenta.com/product/gel-dlya-dusha-wolfthorn-franciya-675ml-576800/",
+            "домен": "lenta.com",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://goldapple.ru/19000037341-wolfthorn",
+            "домен": "goldapple.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://Megapteka.ru/moskva/catalog/bannye-serii-28/old-spice-gel-4484154",
+            "домен": "Megapteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.onlinetrade.ru/catalogue/geli_i_masla_dlya_dusha-c3631/old_spice/gel_dlya_dusha_old_spice_wolfthorn_400_ml_4084500978973-1883725.html",
+            "домен": "onlinetrade.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "маркетплейс",
+        "домены_источников": "poryadok.ru, lenta.com, goldapple.ru, Megapteka.ru, onlinetrade.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "P&G не лидирует в рекомендации",
+            "лидер": "маркетплейсы и перекупы",
+            "комментарий": "Нет ссылок на официальные ресурсы P&G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "пантин для волос",
+    "raw_text": "```json\n{\n    \"пантин для волос\": {\n        \"категория\": \"hair care\",\n        \"запрос\": \"пантин для волос\",\n        \"тип_запроса\": \"брендовый\",\n        \"нерелевантный_запрос\": false,\n        \"источники\": [\n            {\n                \"url\": \"https://pantene.com/\",\n                \"домен\": \"pantene.com\",\n                \"used\": true,\n                \"тип\": \"сайт бренда\",\n                \"бренд_pg\": \"Да\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://goldapple.ru/brands/pantene\",\n                \"домен\": \"goldapple.ru\",\n                \"used\": true,\n                \"тип\": \"перекуп\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://vk.com/misspantene?trackcode=b68e3a29XYzEYFeJg_xhO8saDNCglaAjYgdwOcMCnXPJ8u_qEw\",\n                \"домен\": \"vk.com\",\n                \"used\": false,\n                \"тип\": \"обзор\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://www.parfum-lider.ru/catalog/brand/pantene/\",\n                \"домен\": \"parfum-lider.ru\",\n                \"used\": true,\n                \"тип\": \"перекуп\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://market.yandex.ru/search?text=%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%20%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3\",\n                \"домен\": \"market.yandex.ru\",\n                \"used\": true,\n                \"тип\": \"маркетплейс\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://elize.ru/brands/pantene/\",\n                \"домен\": \"elize.ru\",\n                \"used\": false,\n                \"тип\": \"перекуп\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://uteka.ru/product/pantene-pro-v-balzam-opolaskivatel-gustye-i-krepki-391783/\",\n                \"домен\": \"uteka.ru\",\n                \"used\": true,\n                \"тип\": \"перекуп\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://www.OZON.ru/brand/pantene-77766285/\",\n                \"домен\": \"ozon.ru\",\n                \"used\": true,\n                \"тип\": \"маркетплейс\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            },\n            {\n                \"url\": \"https://www.OZON.ru/category/uhod-za-volosami-6584/pantene-77766285/\",\n                \"домен\": \"ozon.ru\",\n                \"used\": false,\n                \"тип\": \"маркетплейс\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"\"\n            }\n        ],\n        \"тип_источника_доминирующий\": \"перекуп\",\n        \"домены_источников\": \"pantene.com, goldapple.ru, vk.com, parfum-lider.ru, market.yandex.ru, elize.ru, uteka.ru, ozon.ru\",\n        \"есть_ли_pg\": \"Да\",\n        \"конкуренты\": \"\",\n        \"кто_выигрывает\": \"P&G\",\n        \"антилидер\": \"\",\n        \"ссылка_на_антилидера\": \"\",\n        \"пробелы\": []\n    }\n}\n```",
+    "response": {
+      "пантин для волос": {
+        "категория": "hair care",
+        "запрос": "пантин для волос",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://pantene.com/",
+            "домен": "pantene.com",
+            "used": true,
+            "тип": "сайт бренда",
+            "бренд_pg": "Да",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://goldapple.ru/brands/pantene",
+            "домен": "goldapple.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://vk.com/misspantene?trackcode=b68e3a29XYzEYFeJg_xhO8saDNCglaAjYgdwOcMCnXPJ8u_qEw",
+            "домен": "vk.com",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.parfum-lider.ru/catalog/brand/pantene/",
+            "домен": "parfum-lider.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://market.yandex.ru/search?text=%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%20%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3",
+            "домен": "market.yandex.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://elize.ru/brands/pantene/",
+            "домен": "elize.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://uteka.ru/product/pantene-pro-v-balzam-opolaskivatel-gustye-i-krepki-391783/",
+            "домен": "uteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.OZON.ru/brand/pantene-77766285/",
+            "домен": "ozon.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.OZON.ru/category/uhod-za-volosami-6584/pantene-77766285/",
+            "домен": "ozon.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "перекуп",
+        "домены_источников": "pantene.com, goldapple.ru, vk.com, parfum-lider.ru, market.yandex.ru, elize.ru, uteka.ru, ozon.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": []
+      }
+    }
+  },
+  {
+    "request_key": "как поменять памперс",
+    "raw_text": "{\n  \"как поменять памперс\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"как поменять памперс\",\n    \"тип_запроса\": \"брендовый\",\n    \"нерелевантный_запрос\": true,\n    \"источники\": [\n      {\n        \"url\": \"https://kabrita.ru/book/0-6-mes/dlya-sukhikh-i-zdorovykh-malyshey-kak-menyat-podguznik-novorozhdennomu-i-kak-ego-vybrat/\",\n        \"домен\": \"kabrita.ru\",\n        \"used\": true,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.nutriclub.ru/kak-chasto-menyat-podguznik/\",\n        \"домен\": \"nutriclub.ru\",\n        \"used\": false,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.NestleBaby.ru/tools/checklist/osnovy-roditelstva/kak-menyat-podguzniki-novorozhdennomu-rebenku\",\n        \"домен\": \"NestleBaby.ru\",\n        \"used\": false,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.wikihow.com/Change-a-Diaper\",\n        \"домен\": \"wikihow.com\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://ru.wikihow.com/%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D1%8F%D1%82%D1%8C-%D0%BF%D0%BE%D0%B4%D0%B3%D1%83%D0%B7%D0%BD%D0%B8%D0%BA\",\n        \"домен\": \"ru.wikihow.com\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"сайт бренда\",\n    \"домены_источников\": \"kabrita.ru, nutriclub.ru, NestleBaby.ru, wikihow.com, ru.wikihow.com\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"нерелевантно\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"Запрос вне зоны влияния бренда\",\n        \"лидер\": \"нет\",\n        \"комментарий\": \"инструкция по использованию без выбора бренда\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "как поменять памперс": {
+        "категория": "baby care",
+        "запрос": "как поменять памперс",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": true,
+        "источники": [
+          {
+            "url": "https://kabrita.ru/book/0-6-mes/dlya-sukhikh-i-zdorovykh-malyshey-kak-menyat-podguznik-novorozhdennomu-i-kak-ego-vybrat/",
+            "домен": "kabrita.ru",
+            "used": true,
+            "тип": "сайт бренда",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.nutriclub.ru/kak-chasto-menyat-podguznik/",
+            "домен": "nutriclub.ru",
+            "used": false,
+            "тип": "сайт бренда",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.NestleBaby.ru/tools/checklist/osnovy-roditelstva/kak-menyat-podguzniki-novorozhdennomu-rebenku",
+            "домен": "NestleBaby.ru",
+            "used": false,
+            "тип": "сайт бренда",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.wikihow.com/Change-a-Diaper",
+            "домен": "wikihow.com",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://ru.wikihow.com/%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D1%8F%D1%82%D1%8C-%D0%BF%D0%BE%D0%B4%D0%B3%D1%83%D0%B7%D0%BD%D0%B8%D0%BA",
+            "домен": "ru.wikihow.com",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "сайт бренда",
+        "домены_источников": "kabrita.ru, nutriclub.ru, NestleBaby.ru, wikihow.com, ru.wikihow.com",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "",
+        "кто_выигрывает": "нерелевантно",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "Запрос вне зоны влияния бренда",
+            "лидер": "нет",
+            "комментарий": "инструкция по использованию без выбора бренда"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "купить подгузники сени",
+    "raw_text": "```json\n{\n    \"купить подгузники сени\": {\n        \"категория\": \"baby care\",\n        \"запрос\": \"купить подгузники сени\",\n        \"тип_запроса\": \"брендовый\",\n        \"нерелевантный_запрос\": false,\n        \"источники\": [\n            {\n                \"url\": \"https://AptStore.ru/brand/seni/\",\n                \"домен\": \"aptstore.ru\",\n                \"used\": true,\n                \"тип\": \"перекуп\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"Seni\"\n            },\n            {\n                \"url\": \"https://comfer.ru/catalog/podguzniki/brand_elem-seni/\",\n                \"домен\": \"comfer.ru\",\n                \"used\": true,\n                \"тип\": \"перекуп\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"Seni\"\n            },\n            {\n                \"url\": \"https://gorzdrav.org/category/podguzniki-dlya-vzroslyh/\",\n                \"домен\": \"gorzdrav.org\",\n                \"used\": true,\n                \"тип\": \"перекуп\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"Seni\"\n            },\n            {\n                \"url\": \"https://market.yandex.ru/category/podguzniki-dlya-vzroslykh-seni\",\n                \"домен\": \"market.yandex.ru\",\n                \"used\": true,\n                \"тип\": \"маркетплейс\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"Seni\"\n            },\n            {\n                \"url\": \"https://uteka.ru/tovary-dlya-uhoda-za-bolnymi/podguzniki-dlya-vzroslyh/seni-super-classic-podguzniki-dlya-vzroslyh/\",\n                \"домен\": \"uteka.ru\",\n                \"used\": true,\n                \"тип\": \"перекуп\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"Seni\"\n            },\n            {\n                \"url\": \"https://zdorov.ru/catalog/168/243/246?Goods_page=2&size=10&page=1\",\n                \"домен\": \"zdorov.ru\",\n                \"used\": true,\n                \"тип\": \"перекуп\",\n                \"бренд_pg\": \"Нет\",\n                \"бренд_конкурент\": \"Seni\"\n            }\n        ],\n        \"тип_источника_доминирующий\": \"перекуп\",\n        \"домены_источников\": \"aptstore.ru, comfer.ru, gorzdrav.org, market.yandex.ru, uteka.ru, zdorov.ru\",\n        \"есть_ли_pg\": \"Нет\",\n        \"конкуренты\": \"Seni\",\n        \"кто_выигрывает\": \"конкуренты\",\n        \"антилидер\": \"Seni\",\n        \"ссылка_на_антилидера\": \"https://AptStore.ru/brand/seni/\",\n        \"пробелы\": [\n            {\n                \"тип\": \"P&G отсутствует в ответе\",\n                \"лидер\": \"Seni\",\n                \"комментарий\": \"В ответе упоминается только конкурентный бренд\"\n            }\n        ]\n    }\n}\n```",
+    "response": {
+      "купить подгузники сени": {
+        "категория": "baby care",
+        "запрос": "купить подгузники сени",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://AptStore.ru/brand/seni/",
+            "домен": "aptstore.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Seni"
+          },
+          {
+            "url": "https://comfer.ru/catalog/podguzniki/brand_elem-seni/",
+            "домен": "comfer.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Seni"
+          },
+          {
+            "url": "https://gorzdrav.org/category/podguzniki-dlya-vzroslyh/",
+            "домен": "gorzdrav.org",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Seni"
+          },
+          {
+            "url": "https://market.yandex.ru/category/podguzniki-dlya-vzroslykh-seni",
+            "домен": "market.yandex.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Seni"
+          },
+          {
+            "url": "https://uteka.ru/tovary-dlya-uhoda-za-bolnymi/podguzniki-dlya-vzroslyh/seni-super-classic-podguzniki-dlya-vzroslyh/",
+            "домен": "uteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Seni"
+          },
+          {
+            "url": "https://zdorov.ru/catalog/168/243/246?Goods_page=2&size=10&page=1",
+            "домен": "zdorov.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Seni"
+          }
+        ],
+        "тип_источника_доминирующий": "перекуп",
+        "домены_источников": "aptstore.ru, comfer.ru, gorzdrav.org, market.yandex.ru, uteka.ru, zdorov.ru",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "Seni",
+        "кто_выигрывает": "конкуренты",
+        "антилидер": "Seni",
+        "ссылка_на_антилидера": "https://AptStore.ru/brand/seni/",
+        "пробелы": [
+          {
+            "тип": "P&G отсутствует в ответе",
+            "лидер": "Seni",
+            "комментарий": "В ответе упоминается только конкурентный бренд"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "инструкция как правильно чистить зубы",
+    "raw_text": "{\n  \"инструкция как правильно чистить зубы\": {\n    \"категория\": \"oral care\",\n    \"запрос\": \"инструкция как правильно чистить зубы\",\n    \"тип_запроса\": \"консультационный\",\n    \"нерелевантный_запрос\": true,\n    \"источники\": [\n      {\n        \"url\": \"https://www.championat.com/lifestyle/article-5896126-kak-pravilno-chistit-zuby-zubnoj-schyotkoj-poshagovaya-instrukciya-sovety.html\",\n        \"домен\": \"www.championat.com\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.zdoroviemed.ru/stati/kak-pravilno-chistit-zuby/\",\n        \"домен\": \"www.zdoroviemed.ru\",\n        \"used\": true,\n        \"тип\": \"экспертный ресурс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://shop.curaprox.ru/articles/zubnaya-pasta/pravilnaya-chistka-zubov/\",\n        \"домен\": \"shop.curaprox.ru\",\n        \"used\": true,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.Sportmaster.ru/media/articles/irrigator-nit-ili-obychnaya-shchetka-kak-pravilno-zabotitsya-o-zubah/\",\n        \"домен\": \"www.Sportmaster.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://dzen.ru/a/Y4Db8LVKpkXUGsMg\",\n        \"домен\": \"dzen.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"обзор\",\n    \"домены_источников\": \"www.championat.com, www.zdoroviemed.ru, shop.curaprox.ru, www.Sportmaster.ru, dzen.ru\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"нерелевантно\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"Запрос вне зоны влияния бренда\",\n        \"лидер\": \"нет\",\n        \"комментарий\": \"запрос не связан с выбором товара\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "инструкция как правильно чистить зубы": {
+        "категория": "oral care",
+        "запрос": "инструкция как правильно чистить зубы",
+        "тип_запроса": "консультационный",
+        "нерелевантный_запрос": true,
+        "источники": [
+          {
+            "url": "https://www.championat.com/lifestyle/article-5896126-kak-pravilno-chistit-zuby-zubnoj-schyotkoj-poshagovaya-instrukciya-sovety.html",
+            "домен": "www.championat.com",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.zdoroviemed.ru/stati/kak-pravilno-chistit-zuby/",
+            "домен": "www.zdoroviemed.ru",
+            "used": true,
+            "тип": "экспертный ресурс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://shop.curaprox.ru/articles/zubnaya-pasta/pravilnaya-chistka-zubov/",
+            "домен": "shop.curaprox.ru",
+            "used": true,
+            "тип": "сайт бренда",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.Sportmaster.ru/media/articles/irrigator-nit-ili-obychnaya-shchetka-kak-pravilno-zabotitsya-o-zubah/",
+            "домен": "www.Sportmaster.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://dzen.ru/a/Y4Db8LVKpkXUGsMg",
+            "домен": "dzen.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "обзор",
+        "домены_источников": "www.championat.com, www.zdoroviemed.ru, shop.curaprox.ru, www.Sportmaster.ru, dzen.ru",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "",
+        "кто_выигрывает": "нерелевантно",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "Запрос вне зоны влияния бренда",
+            "лидер": "нет",
+            "комментарий": "запрос не связан с выбором товара"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "ночные подгузники трусики для девочек",
+    "raw_text": "{\n  \"ночные подгузники трусики для девочек\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"ночные подгузники трусики для девочек\",\n    \"тип_запроса\": \"категорийный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://www.OZON.ru/category/nochnye-trusiki-podguzniki-dlya-devochek/\",\n        \"домен\": \"ozon.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.WildBerries.ru/catalog/tags/trusiki-podguzniki-nocznye-dlja-devoczek\",\n        \"домен\": \"wildberries.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.Detmir.ru/catalog/index/name/diapers_pants/naznachenie_podguzniki-nochnye/\",\n        \"домен\": \"detmir.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://planetazdorovo.ru/catalog/mama-i-malysh/podguzniki-i-pelenki/podguzniki-trusiki/huggies-drynites-trusikipodguz-16154203/\",\n        \"домен\": \"planetazdorovo.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"Huggies\"\n      },\n      {\n        \"url\": \"https://market.yandex.ru/card/podguzniki-trusiki-huggies-drynites-dlya-devochek-8-15-let-9sht/103576945283\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"Huggies\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"маркетплейс\",\n    \"домены_источников\": \"ozon.ru, wildberries.ru, detmir.ru, planetazdorovo.ru, market.yandex.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"Huggies\",\n    \"кто_выигрывает\": \"конкуренты\",\n    \"антилидер\": \"Huggies\",\n    \"ссылка_на_антилидера\": \"https://planetazdorovo.ru/catalog/mama-i-malysh/podguzniki-i-pelenki/podguzniki-trusiki/huggies-drynites-trusikipodguz-16154203/\",\n    \"пробелы\": [\n      {\n        \"тип\": \"P&G не лидирует в рекомендации\",\n        \"лидер\": \"Huggies\",\n        \"комментарий\": \"В ответе первым рекомендован конкурент\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "ночные подгузники трусики для девочек": {
+        "категория": "baby care",
+        "запрос": "ночные подгузники трусики для девочек",
+        "тип_запроса": "категорийный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://www.OZON.ru/category/nochnye-trusiki-podguzniki-dlya-devochek/",
+            "домен": "ozon.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.WildBerries.ru/catalog/tags/trusiki-podguzniki-nocznye-dlja-devoczek",
+            "домен": "wildberries.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.Detmir.ru/catalog/index/name/diapers_pants/naznachenie_podguzniki-nochnye/",
+            "домен": "detmir.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://planetazdorovo.ru/catalog/mama-i-malysh/podguzniki-i-pelenki/podguzniki-trusiki/huggies-drynites-trusikipodguz-16154203/",
+            "домен": "planetazdorovo.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Huggies"
+          },
+          {
+            "url": "https://market.yandex.ru/card/podguzniki-trusiki-huggies-drynites-dlya-devochek-8-15-let-9sht/103576945283",
+            "домен": "market.yandex.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Huggies"
+          }
+        ],
+        "тип_источника_доминирующий": "маркетплейс",
+        "домены_источников": "ozon.ru, wildberries.ru, detmir.ru, planetazdorovo.ru, market.yandex.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "Huggies",
+        "кто_выигрывает": "конкуренты",
+        "антилидер": "Huggies",
+        "ссылка_на_антилидера": "https://planetazdorovo.ru/catalog/mama-i-malysh/podguzniki-i-pelenki/podguzniki-trusiki/huggies-drynites-trusikipodguz-16154203/",
+        "пробелы": [
+          {
+            "тип": "P&G не лидирует в рекомендации",
+            "лидер": "Huggies",
+            "комментарий": "В ответе первым рекомендован конкурент"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "подгузники для новорожденных 3 кг",
+    "raw_text": "{\n  \"подгузники для новорожденных 3 кг\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"подгузники для новорожденных 3 кг\",\n    \"тип_запроса\": \"категорийный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://market.yandex.ru/search?text=%D0%BF%D0%B0%D0%BC%D0%BF%D0%B5%D1%80%D1%81%D1%8B%203%20%D0%BA%D0%B3%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D1%85\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.Detmir.ru/catalog/index/name/podguzniki/ves_rebyonka-m3-kg/\",\n        \"домен\": \"detmir.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.OZON.ru/category/podguzniki-3kg/\",\n        \"домен\": \"ozon.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.auchan.ru/catalog/vse-dlya-detey/gigiena-i-uhod/podguzniki/\",\n        \"домен\": \"auchan.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.WildBerries.ru/catalog/detyam/tovary-dlya-malysha/podguzniki/podguzniki-detskie\",\n        \"домен\": \"wildberries.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"маркетплейс\",\n    \"домены_источников\": \"market.yandex.ru, detmir.ru, ozon.ru, auchan.ru, wildberries.ru\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"Huggies\",\n    \"кто_выигрывает\": \"конкуренты\",\n    \"антилидер\": \"Huggies\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"P&G отсутствует в ответе\",\n        \"лидер\": \"Huggies, Tanoshi, Emmy\",\n        \"комментарий\": \"В ответе рекомендуются конкурирующие бренды\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "подгузники для новорожденных 3 кг": {
+        "категория": "baby care",
+        "запрос": "подгузники для новорожденных 3 кг",
+        "тип_запроса": "категорийный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://market.yandex.ru/search?text=%D0%BF%D0%B0%D0%BC%D0%BF%D0%B5%D1%80%D1%81%D1%8B%203%20%D0%BA%D0%B3%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D1%85",
+            "домен": "market.yandex.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.Detmir.ru/catalog/index/name/podguzniki/ves_rebyonka-m3-kg/",
+            "домен": "detmir.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.OZON.ru/category/podguzniki-3kg/",
+            "домен": "ozon.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.auchan.ru/catalog/vse-dlya-detey/gigiena-i-uhod/podguzniki/",
+            "домен": "auchan.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.WildBerries.ru/catalog/detyam/tovary-dlya-malysha/podguzniki/podguzniki-detskie",
+            "домен": "wildberries.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "маркетплейс",
+        "домены_источников": "market.yandex.ru, detmir.ru, ozon.ru, auchan.ru, wildberries.ru",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "Huggies",
+        "кто_выигрывает": "конкуренты",
+        "антилидер": "Huggies",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "P&G отсутствует в ответе",
+            "лидер": "Huggies, Tanoshi, Emmy",
+            "комментарий": "В ответе рекомендуются конкурирующие бренды"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "1 как правильно чистить зубы",
+    "raw_text": "{\n  \"1 как правильно чистить зубы\": {\n    \"категория\": \"oral care\",\n    \"запрос\": \"1 как правильно чистить зубы\",\n    \"тип_запроса\": \"консультационный\",\n    \"нерелевантный_запрос\": true,\n    \"источники\": [\n      {\n        \"url\": \"https://shop.curaprox.ru/articles/zubnaya-pasta/pravilnaya-chistka-zubov/\",\n        \"домен\": \"shop.curaprox.ru\",\n        \"used\": false,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.Sportmaster.ru/media/articles/irrigator-nit-ili-obychnaya-shchetka-kak-pravilno-zabotitsya-o-zubah/\",\n        \"домен\": \"www.Sportmaster.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://dzen.ru/a/Y4Db8LVKpkXUGsMg\",\n        \"домен\": \"dzen.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://goldapple.ru/flacon/article/a-esli-ne-pochistit-vse-voprosy-o-gigiene-polosti-rta\",\n        \"домен\": \"goldapple.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://media.halvacard.ru/beauty/32-norma-vosem-predmetov-dlya-ukhoda-za-polostyu-rta-kotorye-pomogut-sekonomit-na-stomatologakh\",\n        \"домен\": \"media.halvacard.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"обзор\",\n    \"домены_источников\": \"shop.curaprox.ru, www.Sportmaster.ru, dzen.ru, goldapple.ru, media.halvacard.ru\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"нерелевантно\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"Запрос вне зоны влияния бренда\",\n        \"лидер\": \"нет\",\n        \"комментарий\": \"запрос об общей технике чистки зубов\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "1 как правильно чистить зубы": {
+        "категория": "oral care",
+        "запрос": "1 как правильно чистить зубы",
+        "тип_запроса": "консультационный",
+        "нерелевантный_запрос": true,
+        "источники": [
+          {
+            "url": "https://shop.curaprox.ru/articles/zubnaya-pasta/pravilnaya-chistka-zubov/",
+            "домен": "shop.curaprox.ru",
+            "used": false,
+            "тип": "сайт бренда",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.Sportmaster.ru/media/articles/irrigator-nit-ili-obychnaya-shchetka-kak-pravilno-zabotitsya-o-zubah/",
+            "домен": "www.Sportmaster.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://dzen.ru/a/Y4Db8LVKpkXUGsMg",
+            "домен": "dzen.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://goldapple.ru/flacon/article/a-esli-ne-pochistit-vse-voprosy-o-gigiene-polosti-rta",
+            "домен": "goldapple.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://media.halvacard.ru/beauty/32-norma-vosem-predmetov-dlya-ukhoda-za-polostyu-rta-kotorye-pomogut-sekonomit-na-stomatologakh",
+            "домен": "media.halvacard.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "обзор",
+        "домены_источников": "shop.curaprox.ru, www.Sportmaster.ru, dzen.ru, goldapple.ru, media.halvacard.ru",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "",
+        "кто_выигрывает": "нерелевантно",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "Запрос вне зоны влияния бренда",
+            "лидер": "нет",
+            "комментарий": "запрос об общей технике чистки зубов"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "подгузники трусики размеры детские",
+    "raw_text": "{\n  \"подгузники трусики размеры детские\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"подгузники трусики размеры детские\",\n    \"тип_запроса\": \"категорийный\",\n    \"нерелевантный_запрос\": true,\n    \"источники\": [\n      {\n        \"url\": \"https://apteka.ru/blog/articles/zdorovyy-rebenok/kak-vibrat-podguzniki/\",\n        \"домен\": \"apteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://edadeal.ru/journal/240920-pampers-size-for-kids/\",\n        \"домен\": \"edadeal.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://chudo-trusiki.ru/blog/instruktsii/gid-po-razmeram/\",\n        \"домен\": \"chudo-trusiki.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://gigienashop.ru/info/kak-vybrat-razmer-detskikh-podguznikov.html\",\n        \"домен\": \"gigienashop.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://dzen.ru/a/Zgt4iLEmXn-6GNES\",\n        \"домен\": \"dzen.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"\",\n    \"домены_источников\": \"apteka.ru, edadeal.ru, chudo-trusiki.ru, gigienashop.ru, dzen.ru\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"нерелевантно\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"Запрос вне зоны влияния бренда\",\n        \"лидер\": \"нет\",\n        \"комментарий\": \"запрос не предполагает выбор бренда\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "подгузники трусики размеры детские": {
+        "категория": "baby care",
+        "запрос": "подгузники трусики размеры детские",
+        "тип_запроса": "категорийный",
+        "нерелевантный_запрос": true,
+        "источники": [
+          {
+            "url": "https://apteka.ru/blog/articles/zdorovyy-rebenok/kak-vibrat-podguzniki/",
+            "домен": "apteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://edadeal.ru/journal/240920-pampers-size-for-kids/",
+            "домен": "edadeal.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://chudo-trusiki.ru/blog/instruktsii/gid-po-razmeram/",
+            "домен": "chudo-trusiki.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://gigienashop.ru/info/kak-vybrat-razmer-detskikh-podguznikov.html",
+            "домен": "gigienashop.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://dzen.ru/a/Zgt4iLEmXn-6GNES",
+            "домен": "dzen.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "",
+        "домены_источников": "apteka.ru, edadeal.ru, chudo-trusiki.ru, gigienashop.ru, dzen.ru",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "",
+        "кто_выигрывает": "нерелевантно",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "Запрос вне зоны влияния бренда",
+            "лидер": "нет",
+            "комментарий": "запрос не предполагает выбор бренда"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "какие подгузники лучше брать в роддом",
+    "raw_text": "{\n  \"какие подгузники лучше брать в роддом\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"какие подгузники лучше брать в роддом\",\n    \"тип_запроса\": \"консультационный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://vc.ru/lrate/2682080-luchshie-podguzniki-dlya-novorozhdennykh\",\n        \"домен\": \"vc.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.Huggies.ru/library/uhod-za-mladentsem/gigiena/kak-vybrat-podguzniki-dlya-novorozhdennykh\",\n        \"домен\": \"Huggies.ru\",\n        \"used\": false,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"Huggies\"\n      },\n      {\n        \"url\": \"https://vk.com/wall-48067990_1289904\",\n        \"домен\": \"vk.com\",\n        \"used\": false,\n        \"тип\": \"форум\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://kmmedcenter.com/articles/skolko-brat-pampersov-v-roddom-kolichestvo-i-osobennosti-vybora\",\n        \"домен\": \"kmmedcenter.com\",\n        \"used\": false,\n        \"тип\": \"экспертный ресурс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://pikabu.ru/story/top15_luchshikh_podguznikov_dlya_novorozhdennyikh_polnyiy_gid_po_vyiboru_2025__2026_goda_13499469\",\n        \"домен\": \"pikabu.ru\",\n        \"used\": false,\n        \"тип\": \"форум\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://market.yandex.ru/journal/reyting-luchshih-podguznikov-dlya-novorozhdyonnyh-2025-top10-i-gid-po-vyboru\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://deti.mail.ru/compilations/197534-luchshie-podguzniki-dlya-novorozhdennykh/\",\n        \"домен\": \"deti.mail.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.kp.ru/family/ya-mama/luchshie-podguzniki-dlya-novorozhdennykh/\",\n        \"домен\": \"kp.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://dzen.ru/a/YUD4rVnYmUDv5B06\",\n        \"домен\": \"dzen.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://irecommend.ru/content/kakoi-podguznik-vzyat-v-roddom-kakoi-ostavit-doma-sravnivaem-moony-natural-pampers-new-baby\",\n        \"домен\": \"irecommend.ru\",\n        \"used\": false,\n        \"тип\": \"форум\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"обзор\",\n    \"домены_источников\": \"vc.ru, Huggies.ru, vk.com, kmmedcenter.com, pikabu.ru, market.yandex.ru, deti.mail.ru, kp.ru, dzen.ru, irecommend.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"Merries, Huggies\",\n    \"кто_выигрывает\": \"конкуренты\",\n    \"антилидер\": \"Merries\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"P&G не лидирует в рекомендации\",\n        \"лидер\": \"Merries\",\n        \"комментарий\": \"В рекомендациях первым упомянут конкурент\"\n      },\n      {\n        \"тип\": \"Конкурент доминирует в консультационном сценарии\",\n        \"лидер\": \"Merries\",\n        \"комментарий\": \"В ответе на консультационный запрос доминируют конкуренты\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "какие подгузники лучше брать в роддом": {
+        "категория": "baby care",
+        "запрос": "какие подгузники лучше брать в роддом",
+        "тип_запроса": "консультационный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://vc.ru/lrate/2682080-luchshie-podguzniki-dlya-novorozhdennykh",
+            "домен": "vc.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.Huggies.ru/library/uhod-za-mladentsem/gigiena/kak-vybrat-podguzniki-dlya-novorozhdennykh",
+            "домен": "Huggies.ru",
+            "used": false,
+            "тип": "сайт бренда",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Huggies"
+          },
+          {
+            "url": "https://vk.com/wall-48067990_1289904",
+            "домен": "vk.com",
+            "used": false,
+            "тип": "форум",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://kmmedcenter.com/articles/skolko-brat-pampersov-v-roddom-kolichestvo-i-osobennosti-vybora",
+            "домен": "kmmedcenter.com",
+            "used": false,
+            "тип": "экспертный ресурс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://pikabu.ru/story/top15_luchshikh_podguznikov_dlya_novorozhdennyikh_polnyiy_gid_po_vyiboru_2025__2026_goda_13499469",
+            "домен": "pikabu.ru",
+            "used": false,
+            "тип": "форум",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://market.yandex.ru/journal/reyting-luchshih-podguznikov-dlya-novorozhdyonnyh-2025-top10-i-gid-po-vyboru",
+            "домен": "market.yandex.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://deti.mail.ru/compilations/197534-luchshie-podguzniki-dlya-novorozhdennykh/",
+            "домен": "deti.mail.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.kp.ru/family/ya-mama/luchshie-podguzniki-dlya-novorozhdennykh/",
+            "домен": "kp.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://dzen.ru/a/YUD4rVnYmUDv5B06",
+            "домен": "dzen.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://irecommend.ru/content/kakoi-podguznik-vzyat-v-roddom-kakoi-ostavit-doma-sravnivaem-moony-natural-pampers-new-baby",
+            "домен": "irecommend.ru",
+            "used": false,
+            "тип": "форум",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "обзор",
+        "домены_источников": "vc.ru, Huggies.ru, vk.com, kmmedcenter.com, pikabu.ru, market.yandex.ru, deti.mail.ru, kp.ru, dzen.ru, irecommend.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "Merries, Huggies",
+        "кто_выигрывает": "конкуренты",
+        "антилидер": "Merries",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "P&G не лидирует в рекомендации",
+            "лидер": "Merries",
+            "комментарий": "В рекомендациях первым упомянут конкурент"
+          },
+          {
+            "тип": "Конкурент доминирует в консультационном сценарии",
+            "лидер": "Merries",
+            "комментарий": "В ответе на консультационный запрос доминируют конкуренты"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "braun oral b io series",
+    "raw_text": "{\n  \"braun oral b io series\": {\n    \"категория\": \"oral care\",\n    \"запрос\": \"braun oral b io series\",\n    \"тип_запроса\": \"брендовый\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://doctorslon.ru/catalog/elektricheskie-shchyetki/elektricheskaya-zubnaya-shchetka-oral-b-io-series-10-black/\",\n        \"домен\": \"doctorslon.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://goldapple.ru/19000461649-io-series-5\",\n        \"домен\": \"goldapple.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://braun-russia.ru/oral-b/elektricheskie-zubnye-shchetki-oral-b/braun-oral-b-io-6-black\",\n        \"домен\": \"braun-russia.ru\",\n        \"used\": true,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Да\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://oralb-russia.ru/oral-b-io\",\n        \"домен\": \"oralb-russia.ru\",\n        \"used\": true,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Да\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://market.yandex.ru/search?text=oral-b%20io\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"сайт бренда\",\n    \"домены_источников\": \"doctorslon.ru, goldapple.ru, braun-russia.ru, oralb-russia.ru, market.yandex.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"P&G\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": []\n  }\n}",
+    "response": {
+      "braun oral b io series": {
+        "категория": "oral care",
+        "запрос": "braun oral b io series",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://doctorslon.ru/catalog/elektricheskie-shchyetki/elektricheskaya-zubnaya-shchetka-oral-b-io-series-10-black/",
+            "домен": "doctorslon.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://goldapple.ru/19000461649-io-series-5",
+            "домен": "goldapple.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://braun-russia.ru/oral-b/elektricheskie-zubnye-shchetki-oral-b/braun-oral-b-io-6-black",
+            "домен": "braun-russia.ru",
+            "used": true,
+            "тип": "сайт бренда",
+            "бренд_pg": "Да",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://oralb-russia.ru/oral-b-io",
+            "домен": "oralb-russia.ru",
+            "used": true,
+            "тип": "сайт бренда",
+            "бренд_pg": "Да",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://market.yandex.ru/search?text=oral-b%20io",
+            "домен": "market.yandex.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "сайт бренда",
+        "домены_источников": "doctorslon.ru, goldapple.ru, braun-russia.ru, oralb-russia.ru, market.yandex.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": []
+      }
+    }
+  },
+  {
+    "request_key": "какие самые хорошие подгузники для новорожденных",
+    "raw_text": "{\n  \"какие самые хорошие подгузники для новорожденных\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"какие самые хорошие подгузники для новорожденных\",\n    \"тип_запроса\": \"консультационный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://deti.mail.ru/compilations/197534-luchshie-podguzniki-dlya-novorozhdennykh/\",\n        \"домен\": \"deti.mail.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://momlovesbest.com/diapering/diapers\",\n        \"домен\": \"momlovesbest.com\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://vc.ru/lrate/2682030-luchshie-podguzniki-trusiki-dlya-detei-2026-goda\",\n        \"домен\": \"vc.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://pikabu.ru/story/top14_luchshikh_podguznikov_dlya_novorozhdennyikh_v_2026_godu__reyting_po_komfortu_vpityivaemosti_i_bezopasnosti_13691366\",\n        \"домен\": \"pikabu.ru\",\n        \"used\": true,\n        \"тип\": \"форум\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://Megapteka.ru/specials/luchshie-podguzniki-dlya-5352\",\n        \"домен\": \"megapteka.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"\",\n    \"домены_источников\": \"deti.mail.ru, momlovesbest.com, vc.ru, pikabu.ru, megapteka.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"Huggies, Momi\",\n    \"кто_выигрывает\": \"конкуренты\",\n    \"антилидер\": \"Huggies\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"P&G не лидирует в рекомендации\",\n        \"лидер\": \"Huggies\",\n        \"комментарий\": \"Конкурент Huggies упомянут первым\"\n      },\n      {\n        \"тип\": \"Конкурент доминирует в консультационном сценарии\",\n        \"лидер\": \"Huggies, Momi\",\n        \"комментарий\": \"В консультационном ответе преобладают конкуренты\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "какие самые хорошие подгузники для новорожденных": {
+        "категория": "baby care",
+        "запрос": "какие самые хорошие подгузники для новорожденных",
+        "тип_запроса": "консультационный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://deti.mail.ru/compilations/197534-luchshie-podguzniki-dlya-novorozhdennykh/",
+            "домен": "deti.mail.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://momlovesbest.com/diapering/diapers",
+            "домен": "momlovesbest.com",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://vc.ru/lrate/2682030-luchshie-podguzniki-trusiki-dlya-detei-2026-goda",
+            "домен": "vc.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://pikabu.ru/story/top14_luchshikh_podguznikov_dlya_novorozhdennyikh_v_2026_godu__reyting_po_komfortu_vpityivaemosti_i_bezopasnosti_13691366",
+            "домен": "pikabu.ru",
+            "used": true,
+            "тип": "форум",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://Megapteka.ru/specials/luchshie-podguzniki-dlya-5352",
+            "домен": "megapteka.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "",
+        "домены_источников": "deti.mail.ru, momlovesbest.com, vc.ru, pikabu.ru, megapteka.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "Huggies, Momi",
+        "кто_выигрывает": "конкуренты",
+        "антилидер": "Huggies",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "P&G не лидирует в рекомендации",
+            "лидер": "Huggies",
+            "комментарий": "Конкурент Huggies упомянут первым"
+          },
+          {
+            "тип": "Конкурент доминирует в консультационном сценарии",
+            "лидер": "Huggies, Momi",
+            "комментарий": "В консультационном ответе преобладают конкуренты"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "head and shoulders for kids",
+    "raw_text": "{\n  \"head and shoulders for kids\": {\n    \"категория\": \"hair care\",\n    \"запрос\": \"head and shoulders for kids\",\n    \"тип_запроса\": \"брендовый\",\n    \"нерелевантный_запрос\": true,\n    \"источники\": [\n      {\n        \"url\": \"https://www.youtube.com/watch?v=VAOOT5ZfQyU\",\n        \"домен\": \"youtube.com\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://vimeo.com/113590282\",\n        \"домен\": \"vimeo.com\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://dzen.ru/video/watch/67851d745776f82bb10e2753\",\n        \"домен\": \"dzen.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://yandex.ru/video/preview/10992866729820547439\",\n        \"домен\": \"yandex.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://vk.com/video-170394945_456239093\",\n        \"домен\": \"vk.com\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"обзор\",\n    \"домены_источников\": \"youtube.com, vimeo.com, dzen.ru, yandex.ru, vk.com\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"нерелевантно\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"Запрос вне зоны влияния бренда\",\n        \"лидер\": \"нет\",\n        \"комментарий\": \"запрос о детской песенке, а не о товаре\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "head and shoulders for kids": {
+        "категория": "hair care",
+        "запрос": "head and shoulders for kids",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": true,
+        "источники": [
+          {
+            "url": "https://www.youtube.com/watch?v=VAOOT5ZfQyU",
+            "домен": "youtube.com",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://vimeo.com/113590282",
+            "домен": "vimeo.com",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://dzen.ru/video/watch/67851d745776f82bb10e2753",
+            "домен": "dzen.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://yandex.ru/video/preview/10992866729820547439",
+            "домен": "yandex.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://vk.com/video-170394945_456239093",
+            "домен": "vk.com",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "обзор",
+        "домены_источников": "youtube.com, vimeo.com, dzen.ru, yandex.ru, vk.com",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "",
+        "кто_выигрывает": "нерелевантно",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "Запрос вне зоны влияния бренда",
+            "лидер": "нет",
+            "комментарий": "запрос о детской песенке, а не о товаре"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "как правильно чистить зубы нитью",
+    "raw_text": "{\n  \"как правильно чистить зубы нитью\": {\n    \"категория\": \"oral care\",\n    \"запрос\": \"как правильно чистить зубы нитью\",\n    \"тип_запроса\": \"консультационный\",\n    \"нерелевантный_запрос\": true,\n    \"источники\": [\n      {\n        \"url\": \"https://furor-clinic.ru/blog/poleznaya-informaciya/kak-polzovatsya-zubnoj-nityu/\",\n        \"домен\": \"furor-clinic.ru\",\n        \"used\": false,\n        \"тип\": \"экспертный ресурс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://Megapteka.ru/specials/kak-pravilno-polzovatsya-6498\",\n        \"домен\": \"megapteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://legstom.ru/zhurnal/zubnaya-nit/\",\n        \"домен\": \"legstom.ru\",\n        \"used\": false,\n        \"тип\": \"экспертный ресурс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.zdoroviemed.ru/stati/kak-pravilno-polzovatsya-zubnoj-nityu-poshagovaya-instrukcziya/\",\n        \"домен\": \"zdoroviemed.ru\",\n        \"used\": false,\n        \"тип\": \"экспертный ресурс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.kp.ru/doctor/bolezni/kak-polzovatsya-zubnoj-nityu/\",\n        \"домен\": \"kp.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"перекуп\",\n    \"домены_источников\": \"furor-clinic.ru, megapteka.ru, legstom.ru, zdoroviemed.ru, kp.ru\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"нерелевантно\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"Запрос вне зоны влияния бренда\",\n        \"лидер\": \"нет\",\n        \"комментарий\": \"Инструкция без рекомендации товаров\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "как правильно чистить зубы нитью": {
+        "категория": "oral care",
+        "запрос": "как правильно чистить зубы нитью",
+        "тип_запроса": "консультационный",
+        "нерелевантный_запрос": true,
+        "источники": [
+          {
+            "url": "https://furor-clinic.ru/blog/poleznaya-informaciya/kak-polzovatsya-zubnoj-nityu/",
+            "домен": "furor-clinic.ru",
+            "used": false,
+            "тип": "экспертный ресурс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://Megapteka.ru/specials/kak-pravilno-polzovatsya-6498",
+            "домен": "megapteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://legstom.ru/zhurnal/zubnaya-nit/",
+            "домен": "legstom.ru",
+            "used": false,
+            "тип": "экспертный ресурс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.zdoroviemed.ru/stati/kak-pravilno-polzovatsya-zubnoj-nityu-poshagovaya-instrukcziya/",
+            "домен": "zdoroviemed.ru",
+            "used": false,
+            "тип": "экспертный ресурс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.kp.ru/doctor/bolezni/kak-polzovatsya-zubnoj-nityu/",
+            "домен": "kp.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "перекуп",
+        "домены_источников": "furor-clinic.ru, megapteka.ru, legstom.ru, zdoroviemed.ru, kp.ru",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "",
+        "кто_выигрывает": "нерелевантно",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "Запрос вне зоны влияния бренда",
+            "лидер": "нет",
+            "комментарий": "Инструкция без рекомендации товаров"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "шампунь для окрашенных волос",
+    "raw_text": "{\n  \"шампунь для окрашенных волос\": {\n    \"категория\": \"hair care\",\n    \"запрос\": \"шампунь для окрашенных волос\",\n    \"тип_запроса\": \"категорийный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://lady.mail.ru/compilations/567979-luchshie-shampuni-dlya-okrashennykh-volos/\",\n        \"домен\": \"lady.mail.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.kapous.ru/catalog/po-naznacheniyu/kosmetika-dlya-volos/ukhod/shampuni/dlya-okrashennykh-volos/\",\n        \"домен\": \"www.kapous.ru\",\n        \"used\": true,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://vc.ru/rl/1111414-10-luchshih-shampunei-dlya-okrashennyh-volos-reiting-2026\",\n        \"домен\": \"vc.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.podrygka.ru/catalog/category_volosy-shampuni/?tag=%D0%BE%D0%BA%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D1%85\",\n        \"домен\": \"www.podrygka.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://dtf.ru/br/3453837-24-luchshih-shampunei-reiting-2026-goda\",\n        \"домен\": \"dtf.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://market.yandex.ru/category/shampuni-i-balzamy-dlya-okrashennykh-volos\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.kp.ru/woman/krasota/luchshie-shampuni-dlya-okrashennykh-volos/\",\n        \"домен\": \"www.kp.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.OZON.ru/category/shampuni-dlya-okrashennyh-volos/\",\n        \"домен\": \"www.ozon.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.thepoizon.ru/article/best-hair-dye-shampoo\",\n        \"домен\": \"www.thepoizon.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://goldapple.ru/f/professionalnyy-shampun-dlya-okrashennykh-volos\",\n        \"домен\": \"goldapple.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"маркетплейс\",\n    \"домены_источников\": \"lady.mail.ru, www.kapous.ru, vc.ru, www.podrygka.ru, dtf.ru, market.yandex.ru, www.kp.ru, www.ozon.ru, www.thepoizon.ru, goldapple.ru\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"L’Oréal, Wella, Estel\",\n    \"кто_выигрывает\": \"конкуренты\",\n    \"антилидер\": \"L’Oréal\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"P&G отсутствует в ответе\",\n        \"лидер\": \"L’Oréal, Wella, Estel\",\n        \"комментарий\": \"В ответе нет брендов P&G, упомянуты конкуренты\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "шампунь для окрашенных волос": {
+        "категория": "hair care",
+        "запрос": "шампунь для окрашенных волос",
+        "тип_запроса": "категорийный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://lady.mail.ru/compilations/567979-luchshie-shampuni-dlya-okrashennykh-volos/",
+            "домен": "lady.mail.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.kapous.ru/catalog/po-naznacheniyu/kosmetika-dlya-volos/ukhod/shampuni/dlya-okrashennykh-volos/",
+            "домен": "www.kapous.ru",
+            "used": true,
+            "тип": "сайт бренда",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://vc.ru/rl/1111414-10-luchshih-shampunei-dlya-okrashennyh-volos-reiting-2026",
+            "домен": "vc.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.podrygka.ru/catalog/category_volosy-shampuni/?tag=%D0%BE%D0%BA%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D1%85",
+            "домен": "www.podrygka.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://dtf.ru/br/3453837-24-luchshih-shampunei-reiting-2026-goda",
+            "домен": "dtf.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://market.yandex.ru/category/shampuni-i-balzamy-dlya-okrashennykh-volos",
+            "домен": "market.yandex.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.kp.ru/woman/krasota/luchshie-shampuni-dlya-okrashennykh-volos/",
+            "домен": "www.kp.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.OZON.ru/category/shampuni-dlya-okrashennyh-volos/",
+            "домен": "www.ozon.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.thepoizon.ru/article/best-hair-dye-shampoo",
+            "домен": "www.thepoizon.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://goldapple.ru/f/professionalnyy-shampun-dlya-okrashennykh-volos",
+            "домен": "goldapple.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "маркетплейс",
+        "домены_источников": "lady.mail.ru, www.kapous.ru, vc.ru, www.podrygka.ru, dtf.ru, market.yandex.ru, www.kp.ru, www.ozon.ru, www.thepoizon.ru, goldapple.ru",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "L’Oréal, Wella, Estel",
+        "кто_выигрывает": "конкуренты",
+        "антилидер": "L’Oréal",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "P&G отсутствует в ответе",
+            "лидер": "L’Oréal, Wella, Estel",
+            "комментарий": "В ответе нет брендов P&G, упомянуты конкуренты"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "oral b насадки для зубных",
+    "raw_text": "{\n  \"oral b насадки для зубных\": {\n    \"категория\": \"oral care\",\n    \"запрос\": \"oral b насадки для зубных\",\n    \"тип_запроса\": \"брендовый\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://oralb-russia.ru/toothbrush-heads\",\n        \"домен\": \"oralb-russia.ru\",\n        \"used\": true,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Да\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://doctorslon.ru/catalog/nasadki-dlya-zubnykh-shchyetok/nasadki-z-oral-b/\",\n        \"домен\": \"doctorslon.ru\",\n        \"used\": true,\n        \"тип\": \"экспертный ресурс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://market.yandex.ru/category/nasadki-dlya-elektricheskikh-zubnykh-schetok-oral-b\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.mvideo.ru/tovary-dlya-zdorovya-35/zubnye-shhetki-114/f/category=nasadki-dlya-elektricheskih-zubnyh-shhetok-1013/brand=oral-b\",\n        \"домен\": \"mvideo.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.OZON.ru/category/nasadki-dlya-zubnoy-schetki-oral-b/\",\n        \"домен\": \"ozon.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"маркетплейс\",\n    \"домены_источников\": \"oralb-russia.ru, doctorslon.ru, market.yandex.ru, mvideo.ru, ozon.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"P&G\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": []\n  }\n}",
+    "response": {
+      "oral b насадки для зубных": {
+        "категория": "oral care",
+        "запрос": "oral b насадки для зубных",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://oralb-russia.ru/toothbrush-heads",
+            "домен": "oralb-russia.ru",
+            "used": true,
+            "тип": "сайт бренда",
+            "бренд_pg": "Да",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://doctorslon.ru/catalog/nasadki-dlya-zubnykh-shchyetok/nasadki-z-oral-b/",
+            "домен": "doctorslon.ru",
+            "used": true,
+            "тип": "экспертный ресурс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://market.yandex.ru/category/nasadki-dlya-elektricheskikh-zubnykh-schetok-oral-b",
+            "домен": "market.yandex.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.mvideo.ru/tovary-dlya-zdorovya-35/zubnye-shhetki-114/f/category=nasadki-dlya-elektricheskih-zubnyh-shhetok-1013/brand=oral-b",
+            "домен": "mvideo.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.OZON.ru/category/nasadki-dlya-zubnoy-schetki-oral-b/",
+            "домен": "ozon.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "маркетплейс",
+        "домены_источников": "oralb-russia.ru, doctorslon.ru, market.yandex.ru, mvideo.ru, ozon.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": []
+      }
+    }
+  },
+  {
+    "request_key": "какие подгузники памперс лучше",
+    "raw_text": "{\n  \"какие подгузники памперс лучше\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"какие подгузники памперс лучше\",\n    \"тип_запроса\": \"консультационный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://dtf.ru/br/2932742-10-luchshih-pampersov-dlya-vzroslyh-reiting-2026-goda\",\n        \"домен\": \"dtf.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.OZON.ru/club/article/top-10-luchshih-proizvoditeleyi-podguznikov-reyiting-brendov-16306248/\",\n        \"домен\": \"ozon.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://vc.ru/lrate/2682030-luchshie-podguzniki-trusiki-dlya-detei-2026-goda\",\n        \"домен\": \"vc.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://market.yandex.ru/journal/reyting-luchshih-podguznikov-dlya-novorozhdyonnyh-2025-top10-i-gid-po-vyboru\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://dtf.ru/toprating/3898612-luchshie-pampersy-dlya-novorozhdennykh-2025\",\n        \"домен\": \"dtf.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://deti.mail.ru/compilations/197534-luchshie-podguzniki-dlya-novorozhdennykh/\",\n        \"домен\": \"deti.mail.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.Detmir.ru/catalog/index/name/podguzniki/reviews/\",\n        \"домен\": \"detmir.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.BabyBlog.ru/library/article/top_podguznikov_kakiye_podguzniki_luchshe_dlya_rebenka\",\n        \"домен\": \"babyblog.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.kp.ru/family/ya-mama/luchshie-podguzniki-dlya-novorozhdennykh/\",\n        \"домен\": \"kp.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"обзор\",\n    \"домены_источников\": \"dtf.ru, ozon.ru, vc.ru, market.yandex.ru, dtf.ru, deti.mail.ru, detmir.ru, babyblog.ru, kp.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"Huggies, Merries\",\n    \"кто_выигрывает\": \"одинаково\",\n    \"антилидер\": \"Huggies\",\n    \"ссылка_на_антилидера\": \"https://dtf.ru/toprating/3898612-luchshie-pampersy-dlya-novorozhdennykh-2025\",\n    \"пробелы\": [\n      {\n        \"тип\": \"P&G не лидирует в рекомендации\",\n        \"лидер\": \"Huggies, Merries\",\n        \"комментарий\": \"Конкуренты представлены наравне с P&G\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "какие подгузники памперс лучше": {
+        "категория": "baby care",
+        "запрос": "какие подгузники памперс лучше",
+        "тип_запроса": "консультационный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://dtf.ru/br/2932742-10-luchshih-pampersov-dlya-vzroslyh-reiting-2026-goda",
+            "домен": "dtf.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.OZON.ru/club/article/top-10-luchshih-proizvoditeleyi-podguznikov-reyiting-brendov-16306248/",
+            "домен": "ozon.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://vc.ru/lrate/2682030-luchshie-podguzniki-trusiki-dlya-detei-2026-goda",
+            "домен": "vc.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://market.yandex.ru/journal/reyting-luchshih-podguznikov-dlya-novorozhdyonnyh-2025-top10-i-gid-po-vyboru",
+            "домен": "market.yandex.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://dtf.ru/toprating/3898612-luchshie-pampersy-dlya-novorozhdennykh-2025",
+            "домен": "dtf.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://deti.mail.ru/compilations/197534-luchshie-podguzniki-dlya-novorozhdennykh/",
+            "домен": "deti.mail.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.Detmir.ru/catalog/index/name/podguzniki/reviews/",
+            "домен": "detmir.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.BabyBlog.ru/library/article/top_podguznikov_kakiye_podguzniki_luchshe_dlya_rebenka",
+            "домен": "babyblog.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.kp.ru/family/ya-mama/luchshie-podguzniki-dlya-novorozhdennykh/",
+            "домен": "kp.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "обзор",
+        "домены_источников": "dtf.ru, ozon.ru, vc.ru, market.yandex.ru, dtf.ru, deti.mail.ru, detmir.ru, babyblog.ru, kp.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "Huggies, Merries",
+        "кто_выигрывает": "одинаково",
+        "антилидер": "Huggies",
+        "ссылка_на_антилидера": "https://dtf.ru/toprating/3898612-luchshie-pampersy-dlya-novorozhdennykh-2025",
+        "пробелы": [
+          {
+            "тип": "P&G не лидирует в рекомендации",
+            "лидер": "Huggies, Merries",
+            "комментарий": "Конкуренты представлены наравне с P&G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "трусики памперс 5",
+    "raw_text": "{\n  \"трусики памперс 5\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"трусики памперс 5\",\n    \"тип_запроса\": \"брендовый\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://apteka.ru/product/pampers-pants-trusiki-razmer-5-15-sht-5e326c7465b5ab000165341e/\",\n        \"домен\": \"apteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.votonia.ru/products/podguzniki-trusiki-pampers-pants-junior-12-17-kg-42-sht-jumbo-pack/\",\n        \"домен\": \"votonia.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.Detmir.ru/catalog/index/name/diapers_pants/brand/2911/razmer_podguzniki-5_11_25_kg/\",\n        \"домен\": \"detmir.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.eapteka.ru/goods/id243487/\",\n        \"домен\": \"eapteka.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://Megapteka.ru/moskva/catalog/podguzniki-112/pampers-trusiki-dzhunior-40909\",\n        \"домен\": \"megapteka.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"перекуп\",\n    \"домены_источников\": \"apteka.ru, votonia.ru, detmir.ru, eapteka.ru, megapteka.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"P&G\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": []\n  }\n}",
+    "response": {
+      "трусики памперс 5": {
+        "категория": "baby care",
+        "запрос": "трусики памперс 5",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://apteka.ru/product/pampers-pants-trusiki-razmer-5-15-sht-5e326c7465b5ab000165341e/",
+            "домен": "apteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.votonia.ru/products/podguzniki-trusiki-pampers-pants-junior-12-17-kg-42-sht-jumbo-pack/",
+            "домен": "votonia.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.Detmir.ru/catalog/index/name/diapers_pants/brand/2911/razmer_podguzniki-5_11_25_kg/",
+            "домен": "detmir.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.eapteka.ru/goods/id243487/",
+            "домен": "eapteka.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://Megapteka.ru/moskva/catalog/podguzniki-112/pampers-trusiki-dzhunior-40909",
+            "домен": "megapteka.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "перекуп",
+        "домены_источников": "apteka.ru, votonia.ru, detmir.ru, eapteka.ru, megapteka.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": []
+      }
+    }
+  },
+  {
+    "request_key": "отбеливающая зубная паста которая реально отбеливает",
+    "raw_text": "{\n  \"отбеливающая зубная паста которая реально отбеливает\": {\n    \"категория\": \"oral care\",\n    \"запрос\": \"отбеливающая зубная паста которая реально отбеливает\",\n    \"тип_запроса\": \"категорийный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://www.kp.ru/expert/zdorove/luchshie-otbelivayushhie-zubnye-pasty/\",\n        \"домен\": \"kp.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://24stoma.ru/otbelivayushhaya-zubnaya-pasta.html\",\n        \"домен\": \"24stoma.ru\",\n        \"used\": true,\n        \"тип\": \"экспертный ресурс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://market.yandex.ru/journal/luchshaya-otbelivayushchaya-zubnaya-pasta-top8-dlya-belosnezhnoy-ulybki\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://health.mail.ru/article/3934928-luchshie-otbelivayushhie-zubnye-pasty/\",\n        \"домен\": \"health.mail.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.byrdie.com/best-whitening-toothpastes-4582717\",\n        \"домен\": \"byrdie.com\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://lundenilona.ru/catalog/dlya_litsa/bezabrazivnaya-otbelivayushchaya-zubnaya-pasta-white-strong/\",\n        \"домен\": \"lundenilona.ru\",\n        \"used\": false,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.OZON.ru/category/luchshaya-otbelivayushchaya-zubnaya-pasta/\",\n        \"домен\": \"ozon.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://doctorslon.ru/catalog/zubnye-pasty-penki-opolaskivatel/pasti-otbelivayushchie/\",\n        \"домен\": \"doctorslon.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"обзор\",\n    \"домены_источников\": \"kp.ru, 24stoma.ru, market.yandex.ru, health.mail.ru, byrdie.com, lundenilona.ru, ozon.ru, doctorslon.ru\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"Splat, Sensodyne\",\n    \"кто_выигрывает\": \"конкуренты\",\n    \"антилидер\": \"Splat\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"P&G отсутствует в ответе\",\n        \"лидер\": \"Splat, Sensodyne\",\n        \"комментарий\": \"P&G бренды не упомянуты\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "отбеливающая зубная паста которая реально отбеливает": {
+        "категория": "oral care",
+        "запрос": "отбеливающая зубная паста которая реально отбеливает",
+        "тип_запроса": "категорийный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://www.kp.ru/expert/zdorove/luchshie-otbelivayushhie-zubnye-pasty/",
+            "домен": "kp.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://24stoma.ru/otbelivayushhaya-zubnaya-pasta.html",
+            "домен": "24stoma.ru",
+            "used": true,
+            "тип": "экспертный ресурс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://market.yandex.ru/journal/luchshaya-otbelivayushchaya-zubnaya-pasta-top8-dlya-belosnezhnoy-ulybki",
+            "домен": "market.yandex.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://health.mail.ru/article/3934928-luchshie-otbelivayushhie-zubnye-pasty/",
+            "домен": "health.mail.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.byrdie.com/best-whitening-toothpastes-4582717",
+            "домен": "byrdie.com",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://lundenilona.ru/catalog/dlya_litsa/bezabrazivnaya-otbelivayushchaya-zubnaya-pasta-white-strong/",
+            "домен": "lundenilona.ru",
+            "used": false,
+            "тип": "сайт бренда",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.OZON.ru/category/luchshaya-otbelivayushchaya-zubnaya-pasta/",
+            "домен": "ozon.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://doctorslon.ru/catalog/zubnye-pasty-penki-opolaskivatel/pasti-otbelivayushchie/",
+            "домен": "doctorslon.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "обзор",
+        "домены_источников": "kp.ru, 24stoma.ru, market.yandex.ru, health.mail.ru, byrdie.com, lundenilona.ru, ozon.ru, doctorslon.ru",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "Splat, Sensodyne",
+        "кто_выигрывает": "конкуренты",
+        "антилидер": "Splat",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "P&G отсутствует в ответе",
+            "лидер": "Splat, Sensodyne",
+            "комментарий": "P&G бренды не упомянуты"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "дезодорант old spice whitewater",
+    "raw_text": "{\n  \"дезодорант old spice whitewater\": {\n    \"категория\": \"hair care\",\n    \"запрос\": \"дезодорант old spice whitewater\",\n    \"тип_запроса\": \"брендовый\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://market.yandex.ru/card/old-spice-muzhskoy-dezodorant-stik-whitewater-50ml/103578823154\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Да\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.eapteka.ru/goods/id275383/\",\n        \"домен\": \"eapteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Да\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://goldapple.ru/1012700023-whitewater\",\n        \"домен\": \"goldapple.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Да\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://zdravcity.ru/p_old-spajs-deo-stik-vajtvoter-50ml-0029133.html\",\n        \"домен\": \"zdravcity.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Да\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://eshe.club/product/index/id/6198527/\",\n        \"домен\": \"eshe.club\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Да\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"маркетплейс\",\n    \"домены_источников\": \"market.yandex.ru, eapteka.ru, goldapple.ru, zdravcity.ru, eshe.club\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"P&G\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": []\n  }\n}",
+    "response": {
+      "дезодорант old spice whitewater": {
+        "категория": "hair care",
+        "запрос": "дезодорант old spice whitewater",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://market.yandex.ru/card/old-spice-muzhskoy-dezodorant-stik-whitewater-50ml/103578823154",
+            "домен": "market.yandex.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Да",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.eapteka.ru/goods/id275383/",
+            "домен": "eapteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Да",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://goldapple.ru/1012700023-whitewater",
+            "домен": "goldapple.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Да",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://zdravcity.ru/p_old-spajs-deo-stik-vajtvoter-50ml-0029133.html",
+            "домен": "zdravcity.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Да",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://eshe.club/product/index/id/6198527/",
+            "домен": "eshe.club",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Да",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "маркетплейс",
+        "домены_источников": "market.yandex.ru, eapteka.ru, goldapple.ru, zdravcity.ru, eshe.club",
+        "есть_ли_pg": "Да",
+        "конкуренты": "",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": []
+      }
+    }
+  },
+  {
+    "request_key": "шампунь хеден шолдерс 2 в 1",
+    "raw_text": "{\n  \"шампунь хеден шолдерс 2 в 1\": {\n    \"категория\": \"hair care\",\n    \"запрос\": \"шампунь хеден шолдерс 2 в 1\",\n    \"тип_запроса\": \"консультационный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://market.yandex.ru/card/headshoulders-shampun-ot-perkhoti-i-balzam-dlya-volos-osnovnoy-ukhod-2v1-800ml/103577349472\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://poryadok.ru/catalog/shampuni/39729/\",\n        \"домен\": \"poryadok.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://zdravcity.ru/p_shampun-i-balzam-opolaskivatel-protiv-perhoti-osnovnoj-uhod-2-v-1-head-shoulders-hjed-jend-sholders-fl-800ml-0212221.html\",\n        \"домен\": \"zdravcity.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://apteka.ru/product/head--shoulders-shampun-i-balzam-opolaskivatel-protiv-perxoti-2-v-1-osnovnoj-uxod-300-ml-5e32726665b5ab0001655e84/\",\n        \"домен\": \"apteka.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://cosmetic.magnit.ru/product/1000552053-head_shoulders_shampun_d_vol_protiv_perkh_osn_ukhod_800ml\",\n        \"домен\": \"cosmetic.magnit.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"перекуп\",\n    \"домены_источников\": \"market.yandex.ru, poryadok.ru, zdravcity.ru, apteka.ru, cosmetic.magnit.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"P&G\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": []\n  }\n}",
+    "response": {
+      "шампунь хеден шолдерс 2 в 1": {
+        "категория": "hair care",
+        "запрос": "шампунь хеден шолдерс 2 в 1",
+        "тип_запроса": "консультационный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://market.yandex.ru/card/headshoulders-shampun-ot-perkhoti-i-balzam-dlya-volos-osnovnoy-ukhod-2v1-800ml/103577349472",
+            "домен": "market.yandex.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://poryadok.ru/catalog/shampuni/39729/",
+            "домен": "poryadok.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://zdravcity.ru/p_shampun-i-balzam-opolaskivatel-protiv-perhoti-osnovnoj-uhod-2-v-1-head-shoulders-hjed-jend-sholders-fl-800ml-0212221.html",
+            "домен": "zdravcity.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://apteka.ru/product/head--shoulders-shampun-i-balzam-opolaskivatel-protiv-perxoti-2-v-1-osnovnoj-uxod-300-ml-5e32726665b5ab0001655e84/",
+            "домен": "apteka.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://cosmetic.magnit.ru/product/1000552053-head_shoulders_shampun_d_vol_protiv_perkh_osn_ukhod_800ml",
+            "домен": "cosmetic.magnit.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "перекуп",
+        "домены_источников": "market.yandex.ru, poryadok.ru, zdravcity.ru, apteka.ru, cosmetic.magnit.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": []
+      }
+    }
+  },
+  {
+    "request_key": "blend a med 3d white luxe",
+    "raw_text": "{\n  \"blend a med 3d white luxe\": {\n    \"категория\": \"oral care\",\n    \"запрос\": \"blend a med 3d white luxe\",\n    \"тип_запроса\": \"брендовый\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://uteka.ru/product/blend-a-med-3d-white-luxe-sovershenstvo-zubnaya-pasta-366000/\",\n        \"домен\": \"uteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.eapteka.ru/goods/id277291/\",\n        \"домен\": \"eapteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://apteka.ru/product/blend-a-med-zubnaya-pasta-3d-white-luxe-sovershenstvo-75-ml-5e327536f5a9ae000140e4ab/\",\n        \"домен\": \"apteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://poryadok.ru/catalog/zubnaya_pasta/719935/\",\n        \"домен\": \"poryadok.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.Detmir.ru/product/index/id/4856435/\",\n        \"домен\": \"detmir.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"перекуп\",\n    \"домены_источников\": \"uteka.ru, eapteka.ru, apteka.ru, poryadok.ru, detmir.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"P&G\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": []\n  }\n}",
+    "response": {
+      "blend a med 3d white luxe": {
+        "категория": "oral care",
+        "запрос": "blend a med 3d white luxe",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://uteka.ru/product/blend-a-med-3d-white-luxe-sovershenstvo-zubnaya-pasta-366000/",
+            "домен": "uteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.eapteka.ru/goods/id277291/",
+            "домен": "eapteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://apteka.ru/product/blend-a-med-zubnaya-pasta-3d-white-luxe-sovershenstvo-75-ml-5e327536f5a9ae000140e4ab/",
+            "домен": "apteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://poryadok.ru/catalog/zubnaya_pasta/719935/",
+            "домен": "poryadok.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.Detmir.ru/product/index/id/4856435/",
+            "домен": "detmir.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "перекуп",
+        "домены_источников": "uteka.ru, eapteka.ru, apteka.ru, poryadok.ru, detmir.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": []
+      }
+    }
+  },
+  {
+    "request_key": "pampers premium care размеры",
+    "raw_text": "{\n  \"pampers premium care размеры\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"pampers premium care размеры\",\n    \"тип_запроса\": \"брендовый\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://www.Detmir.ru/product/index/id/4599454/\",\n        \"домен\": \"detmir.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://irecommend.ru/content/pervye-podguzniki-dlya-novorozhdennogo-stoit-li-ikh-vklyuchat-v-spisok-v-roddom-kakoi-razmer\",\n        \"домен\": \"irecommend.ru\",\n        \"used\": false,\n        \"тип\": \"форум\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"Huggies\"\n      },\n      {\n        \"url\": \"https://www.vsekroham.ru/product/podguzniki-pampers-premium-care-1-25-kg-20-sht/\",\n        \"домен\": \"vsekroham.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.WildBerries.ru/catalog/67041025/detail.aspx\",\n        \"домен\": \"wildberries.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.Detmir.ru/product/index/id/3087009/\",\n        \"домен\": \"detmir.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://uteka.ru/product/pampers-premium-care-podguzniki-detskie-365310/\",\n        \"домен\": \"uteka.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://apteka.ru/product/pampers-premium-care-podguzniki-razmer-0-22-sht-6253ffd6a663fc06446aea68/\",\n        \"домен\": \"apteka.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.votonia.ru/products/podguzniki-pampers-premium-care-6-10-kg-razmer-3-114-sht/\",\n        \"домен\": \"votonia.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.OZON.ru/product/podguzniki-dlya-novorozhdennyh-pampers-premium-care-1-razmer-2-5-kg-66-sht-ultramyagkie-538707393/\",\n        \"домен\": \"ozon.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.WildBerries.ru/catalog/67093971/detail.aspx\",\n        \"домен\": \"wildberries.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"маркетплейс\",\n    \"домены_источников\": \"detmir.ru, irecommend.ru, vsekroham.ru, wildberries.ru, detmir.ru, uteka.ru, apteka.ru, votonia.ru, ozon.ru, wildberries.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"P&G\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": []\n  }\n}",
+    "response": {
+      "pampers premium care размеры": {
+        "категория": "baby care",
+        "запрос": "pampers premium care размеры",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://www.Detmir.ru/product/index/id/4599454/",
+            "домен": "detmir.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://irecommend.ru/content/pervye-podguzniki-dlya-novorozhdennogo-stoit-li-ikh-vklyuchat-v-spisok-v-roddom-kakoi-razmer",
+            "домен": "irecommend.ru",
+            "used": false,
+            "тип": "форум",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Huggies"
+          },
+          {
+            "url": "https://www.vsekroham.ru/product/podguzniki-pampers-premium-care-1-25-kg-20-sht/",
+            "домен": "vsekroham.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.WildBerries.ru/catalog/67041025/detail.aspx",
+            "домен": "wildberries.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.Detmir.ru/product/index/id/3087009/",
+            "домен": "detmir.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://uteka.ru/product/pampers-premium-care-podguzniki-detskie-365310/",
+            "домен": "uteka.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://apteka.ru/product/pampers-premium-care-podguzniki-razmer-0-22-sht-6253ffd6a663fc06446aea68/",
+            "домен": "apteka.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.votonia.ru/products/podguzniki-pampers-premium-care-6-10-kg-razmer-3-114-sht/",
+            "домен": "votonia.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.OZON.ru/product/podguzniki-dlya-novorozhdennyh-pampers-premium-care-1-razmer-2-5-kg-66-sht-ultramyagkie-538707393/",
+            "домен": "ozon.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.WildBerries.ru/catalog/67093971/detail.aspx",
+            "домен": "wildberries.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "маркетплейс",
+        "домены_источников": "detmir.ru, irecommend.ru, vsekroham.ru, wildberries.ru, detmir.ru, uteka.ru, apteka.ru, votonia.ru, ozon.ru, wildberries.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": []
+      }
+    }
+  },
+  {
+    "request_key": "как выбрать электрическую зубную щетку взрослому советы",
+    "raw_text": "{\n  \"как выбрать электрическую зубную щетку взрослому советы\": {\n    \"категория\": \"oral care\",\n    \"запрос\": \"как выбрать электрическую зубную щетку взрослому советы\",\n    \"тип_запроса\": \"консультационный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://Megapteka.ru/specials/luchshie-elektricheskie-shhetki-5363\",\n        \"домен\": \"megapteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://vc.ru/toptekhnika/1420811-15-luchshih-elektricheskih-zubnyh-shetok-reiting-2026-goda\",\n        \"домен\": \"vc.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://dentomirshop.ru/articles/42663/\",\n        \"домен\": \"dentomirshop.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://hi-tech.mail.ru/compilations/101234-top-ehlektricheskie-zubnye-shchetki/\",\n        \"домен\": \"hi-tech.mail.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://goldapple.ru/flacon/article/zachem-bluetooth-ili-kak-vybrat-elektricheskuyu-zubnuyu-shchetku\",\n        \"домен\": \"goldapple.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.kp.ru/expert/zdorove/luchshie-elektricheskie-zubnye-shhetki/\",\n        \"домен\": \"kp.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://club.dns-shop.ru/blog/t-215-zubnyie-elektroschetki/18732-kak-vyibrat-elektricheskuu-zubnuu-schetku/\",\n        \"домен\": \"club.dns-shop.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://market.yandex.ru/journal/luchshie-elektricheskie-zubnye-shchyotki-obzor-10-gadzhetov\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": false,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://doctorslon.ru/company/articles/kak-vybrat-elektricheskuyu-zubnuyu-shchetku/\",\n        \"домен\": \"doctorslon.ru\",\n        \"used\": false,\n        \"тип\": \"экспертный ресурс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"\",\n    \"домены_источников\": \"megapteka.ru, vc.ru, dentomirshop.ru, hi-tech.mail.ru, goldapple.ru, kp.ru, club.dns-shop.ru, market.yandex.ru, doctorslon.ru\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"конкуренты\",\n    \"антилидер\": \"P&G отсутствует\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"P&G отсутствует в ответе\",\n        \"лидер\": \"нет\",\n        \"комментарий\": \"В ответе не упоминаются бренды P&G\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "как выбрать электрическую зубную щетку взрослому советы": {
+        "категория": "oral care",
+        "запрос": "как выбрать электрическую зубную щетку взрослому советы",
+        "тип_запроса": "консультационный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://Megapteka.ru/specials/luchshie-elektricheskie-shhetki-5363",
+            "домен": "megapteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://vc.ru/toptekhnika/1420811-15-luchshih-elektricheskih-zubnyh-shetok-reiting-2026-goda",
+            "домен": "vc.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://dentomirshop.ru/articles/42663/",
+            "домен": "dentomirshop.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://hi-tech.mail.ru/compilations/101234-top-ehlektricheskie-zubnye-shchetki/",
+            "домен": "hi-tech.mail.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://goldapple.ru/flacon/article/zachem-bluetooth-ili-kak-vybrat-elektricheskuyu-zubnuyu-shchetku",
+            "домен": "goldapple.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.kp.ru/expert/zdorove/luchshie-elektricheskie-zubnye-shhetki/",
+            "домен": "kp.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://club.dns-shop.ru/blog/t-215-zubnyie-elektroschetki/18732-kak-vyibrat-elektricheskuu-zubnuu-schetku/",
+            "домен": "club.dns-shop.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://market.yandex.ru/journal/luchshie-elektricheskie-zubnye-shchyotki-obzor-10-gadzhetov",
+            "домен": "market.yandex.ru",
+            "used": false,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://doctorslon.ru/company/articles/kak-vybrat-elektricheskuyu-zubnuyu-shchetku/",
+            "домен": "doctorslon.ru",
+            "used": false,
+            "тип": "экспертный ресурс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "",
+        "домены_источников": "megapteka.ru, vc.ru, dentomirshop.ru, hi-tech.mail.ru, goldapple.ru, kp.ru, club.dns-shop.ru, market.yandex.ru, doctorslon.ru",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "",
+        "кто_выигрывает": "конкуренты",
+        "антилидер": "P&G отсутствует",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "P&G отсутствует в ответе",
+            "лидер": "нет",
+            "комментарий": "В ответе не упоминаются бренды P&G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "промокоды подгузники детский",
+    "raw_text": "{\n  \"промокоды подгузники детский\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"промокоды подгузники детский\",\n    \"тип_запроса\": \"категорийный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://promokod.pikabu.ru/shops/huggies\",\n        \"домен\": \"promokod.pikabu.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"Huggies\"\n      },\n      {\n        \"url\": \"https://promo.habr.com/offer/pampers\",\n        \"домен\": \"promo.habr.com\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.pepper.ru/groups/nappy\",\n        \"домен\": \"www.pepper.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://promokodus.com/campaigns/pampers\",\n        \"домен\": \"promokodus.com\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://promokod.pikabu.ru/shops/detmir\",\n        \"домен\": \"promokod.pikabu.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://pikadil.ru/view/huggies.ru\",\n        \"домен\": \"pikadil.ru\",\n        \"used\": false,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"Huggies\"\n      },\n      {\n        \"url\": \"https://PromoKodi.net/store/detski-mir/\",\n        \"домен\": \"PromoKodi.net\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.mk.ru/promokodi/nappyclub-promokod\",\n        \"домен\": \"www.mk.ru\",\n        \"used\": true,\n        \"тип\": \"обзор\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"обзор\",\n    \"домены_источников\": \"promokod.pikabu.ru, promo.habr.com, www.pepper.ru, promokodus.com, pikadil.ru, PromoKodi.net, www.mk.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"Huggies\",\n    \"кто_выигрывает\": \"P&G\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"P&G не лидирует в рекомендации\",\n        \"лидер\": \"Huggies\",\n        \"комментарий\": \"В ответе первым рекомендуются промокоды на бренд-конкурент\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "промокоды подгузники детский": {
+        "категория": "baby care",
+        "запрос": "промокоды подгузники детский",
+        "тип_запроса": "категорийный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://promokod.pikabu.ru/shops/huggies",
+            "домен": "promokod.pikabu.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Huggies"
+          },
+          {
+            "url": "https://promo.habr.com/offer/pampers",
+            "домен": "promo.habr.com",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.pepper.ru/groups/nappy",
+            "домен": "www.pepper.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://promokodus.com/campaigns/pampers",
+            "домен": "promokodus.com",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://promokod.pikabu.ru/shops/detmir",
+            "домен": "promokod.pikabu.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://pikadil.ru/view/huggies.ru",
+            "домен": "pikadil.ru",
+            "used": false,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Huggies"
+          },
+          {
+            "url": "https://PromoKodi.net/store/detski-mir/",
+            "домен": "PromoKodi.net",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.mk.ru/promokodi/nappyclub-promokod",
+            "домен": "www.mk.ru",
+            "used": true,
+            "тип": "обзор",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "обзор",
+        "домены_источников": "promokod.pikabu.ru, promo.habr.com, www.pepper.ru, promokodus.com, pikadil.ru, PromoKodi.net, www.mk.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "Huggies",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "P&G не лидирует в рекомендации",
+            "лидер": "Huggies",
+            "комментарий": "В ответе первым рекомендуются промокоды на бренд-конкурент"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "насадки для зубной щетки oral b",
+    "raw_text": "{\n  \"насадки для зубной щетки oral b\": {\n    \"категория\": \"oral care\",\n    \"запрос\": \"насадки для зубной щетки oral b\",\n    \"тип_запроса\": \"брендовый\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://doctorslon.ru/catalog/nasadki-dlya-zubnykh-shchyetok/nasadki-z-oral-b/\",\n        \"домен\": \"doctorslon.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://oralb-russia.ru/toothbrush-heads\",\n        \"домен\": \"oralb-russia.ru\",\n        \"used\": true,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Да\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.OZON.ru/category/nasadki-dlya-elektricheskih-zubnyh-shchetok-i-irrigatorov-10774/oral-b-18571400/\",\n        \"домен\": \"ozon.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.mvideo.ru/tovary-dlya-zdorovya-35/zubnye-shhetki-114/f/category=nasadki-dlya-elektricheskih-zubnyh-shchetok-1013/brand=oral-b\",\n        \"домен\": \"mvideo.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.onlinetrade.ru/catalogue/nasadki_i_aksessuary_dlya_elektricheskikh_zubnykh_shchetok-c5109/oral_b/\",\n        \"домен\": \"onlinetrade.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"перекуп\",\n    \"домены_источников\": \"doctorslon.ru, oralb-russia.ru, ozon.ru, mvideo.ru, onlinetrade.ru\",\n    \"есть_ли_pg\": \"Да\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"P&G\",\n    \"антилидер\": \"\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": []\n  }\n}",
+    "response": {
+      "насадки для зубной щетки oral b": {
+        "категория": "oral care",
+        "запрос": "насадки для зубной щетки oral b",
+        "тип_запроса": "брендовый",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://doctorslon.ru/catalog/nasadki-dlya-zubnykh-shchyetok/nasadki-z-oral-b/",
+            "домен": "doctorslon.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://oralb-russia.ru/toothbrush-heads",
+            "домен": "oralb-russia.ru",
+            "used": true,
+            "тип": "сайт бренда",
+            "бренд_pg": "Да",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.OZON.ru/category/nasadki-dlya-elektricheskih-zubnyh-shchetok-i-irrigatorov-10774/oral-b-18571400/",
+            "домен": "ozon.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.mvideo.ru/tovary-dlya-zdorovya-35/zubnye-shhetki-114/f/category=nasadki-dlya-elektricheskih-zubnyh-shchetok-1013/brand=oral-b",
+            "домен": "mvideo.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.onlinetrade.ru/catalogue/nasadki_i_aksessuary_dlya_elektricheskikh_zubnykh_shchetok-c5109/oral_b/",
+            "домен": "onlinetrade.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "перекуп",
+        "домены_источников": "doctorslon.ru, oralb-russia.ru, ozon.ru, mvideo.ru, onlinetrade.ru",
+        "есть_ли_pg": "Да",
+        "конкуренты": "",
+        "кто_выигрывает": "P&G",
+        "антилидер": "",
+        "ссылка_на_антилидера": "",
+        "пробелы": []
+      }
+    }
+  },
+  {
+    "request_key": "как выбрать подгузники для новорожденных в роддом",
+    "raw_text": "{\n  \"как выбрать подгузники для новорожденных в роддом\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"как выбрать подгузники для новорожденных в роддом\",\n    \"тип_запроса\": \"консультационный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://market.yandex.ru/journal/reyting-luchshih-podguznikov-dlya-novorozhdyonnyh-2025-top10-i-gid-po-vyboru\",\n        \"домен\": \"market.yandex.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.Huggies.ru/library/uhod-za-mladentsem/gigiena/kak-vybrat-podguzniki-dlya-novorozhdennykh\",\n        \"домен\": \"Huggies.ru\",\n        \"used\": true,\n        \"тип\": \"сайт бренда\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"Huggies\"\n      },\n      {\n        \"url\": \"https://kmmedcenter.com/articles/skolko-brat-pampersov-v-roddom-kolichestvo-i-osobennosti-vybora\",\n        \"домен\": \"kmmedcenter.com\",\n        \"used\": true,\n        \"тип\": \"экспертный ресурс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://apteka.ru/blog/articles/zdorovyy-rebenok/kak-vibrat-podguzniki/\",\n        \"домен\": \"apteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.OZON.ru/club/article/luchshie-podguzniki-dlya-novorozhdennyh-top-10-16305772/\",\n        \"домен\": \"OZON.ru\",\n        \"used\": true,\n        \"тип\": \"маркетплейс\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"маркетплейс\",\n    \"домены_источников\": \"market.yandex.ru, Huggies.ru, kmmedcenter.com, apteka.ru, OZON.ru\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"конкуренты\",\n    \"антилидер\": \"P&G отсутствует\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"P&G отсутствует в ответе\",\n        \"лидер\": \"нет\",\n        \"комментарий\": \"В ответе не указаны бренды P&G\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "как выбрать подгузники для новорожденных в роддом": {
+        "категория": "baby care",
+        "запрос": "как выбрать подгузники для новорожденных в роддом",
+        "тип_запроса": "консультационный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://market.yandex.ru/journal/reyting-luchshih-podguznikov-dlya-novorozhdyonnyh-2025-top10-i-gid-po-vyboru",
+            "домен": "market.yandex.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.Huggies.ru/library/uhod-za-mladentsem/gigiena/kak-vybrat-podguzniki-dlya-novorozhdennykh",
+            "домен": "Huggies.ru",
+            "used": true,
+            "тип": "сайт бренда",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": "Huggies"
+          },
+          {
+            "url": "https://kmmedcenter.com/articles/skolko-brat-pampersov-v-roddom-kolichestvo-i-osobennosti-vybora",
+            "домен": "kmmedcenter.com",
+            "used": true,
+            "тип": "экспертный ресурс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://apteka.ru/blog/articles/zdorovyy-rebenok/kak-vibrat-podguzniki/",
+            "домен": "apteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.OZON.ru/club/article/luchshie-podguzniki-dlya-novorozhdennyh-top-10-16305772/",
+            "домен": "OZON.ru",
+            "used": true,
+            "тип": "маркетплейс",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "маркетплейс",
+        "домены_источников": "market.yandex.ru, Huggies.ru, kmmedcenter.com, apteka.ru, OZON.ru",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "",
+        "кто_выигрывает": "конкуренты",
+        "антилидер": "P&G отсутствует",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "P&G отсутствует в ответе",
+            "лидер": "нет",
+            "комментарий": "В ответе не указаны бренды P&G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "request_key": "купить подгузник спб",
+    "raw_text": "{\n  \"купить подгузник спб\": {\n    \"категория\": \"baby care\",\n    \"запрос\": \"купить подгузник спб\",\n    \"тип_запроса\": \"категорийный\",\n    \"нерелевантный_запрос\": false,\n    \"источники\": [\n      {\n        \"url\": \"https://spb.uteka.ru/catalog/podguzniki-i-pelenki-detskie/podguzniki-odnorazovye-detskie/\",\n        \"домен\": \"spb.uteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://apteka.ru/sanktpeterburg/category/baby-child/baby/\",\n        \"домен\": \"apteka.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://gorzdrav.org/spb/category/podguzniki-dlya-detej/\",\n        \"домен\": \"gorzdrav.org\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://ozerki.ru/sankt-peterburg/catalog/podguzniki-detskie/\",\n        \"домен\": \"ozerki.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://www.votonia.ru/catalog/podguzniki-2/\",\n        \"домен\": \"votonia.ru\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://vitaexpress.ru/catalog/mama-i-malysh/landing/podguzniki_i_trusiki/\",\n        \"домен\": \"vitaexpress.ru\",\n        \"used\": true,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      },\n      {\n        \"url\": \"https://lenta.com/catalog/podguzniki-19498/\",\n        \"домен\": \"lenta.com\",\n        \"used\": false,\n        \"тип\": \"перекуп\",\n        \"бренд_pg\": \"Нет\",\n        \"бренд_конкурент\": \"\"\n      }\n    ],\n    \"тип_источника_доминирующий\": \"перекуп\",\n    \"домены_источников\": \"spb.uteka.ru, apteka.ru, gorzdrav.org, ozerki.ru, votonia.ru, vitaexpress.ru, lenta.com\",\n    \"есть_ли_pg\": \"Нет\",\n    \"конкуренты\": \"\",\n    \"кто_выигрывает\": \"конкуренты\",\n    \"антилидер\": \"P&G отсутствует\",\n    \"ссылка_на_антилидера\": \"\",\n    \"пробелы\": [\n      {\n        \"тип\": \"P&G отсутствует в ответе\",\n        \"лидер\": \"\",\n        \"комментарий\": \"В ответе нет упоминания брендов P&G\"\n      }\n    ]\n  }\n}",
+    "response": {
+      "купить подгузник спб": {
+        "категория": "baby care",
+        "запрос": "купить подгузник спб",
+        "тип_запроса": "категорийный",
+        "нерелевантный_запрос": false,
+        "источники": [
+          {
+            "url": "https://spb.uteka.ru/catalog/podguzniki-i-pelenki-detskie/podguzniki-odnorazovye-detskie/",
+            "домен": "spb.uteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://apteka.ru/sanktpeterburg/category/baby-child/baby/",
+            "домен": "apteka.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://gorzdrav.org/spb/category/podguzniki-dlya-detej/",
+            "домен": "gorzdrav.org",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://ozerki.ru/sankt-peterburg/catalog/podguzniki-detskie/",
+            "домен": "ozerki.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://www.votonia.ru/catalog/podguzniki-2/",
+            "домен": "votonia.ru",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://vitaexpress.ru/catalog/mama-i-malysh/landing/podguzniki_i_trusiki/",
+            "домен": "vitaexpress.ru",
+            "used": true,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          },
+          {
+            "url": "https://lenta.com/catalog/podguzniki-19498/",
+            "домен": "lenta.com",
+            "used": false,
+            "тип": "перекуп",
+            "бренд_pg": "Нет",
+            "бренд_конкурент": ""
+          }
+        ],
+        "тип_источника_доминирующий": "перекуп",
+        "домены_источников": "spb.uteka.ru, apteka.ru, gorzdrav.org, ozerki.ru, votonia.ru, vitaexpress.ru, lenta.com",
+        "есть_ли_pg": "Нет",
+        "конкуренты": "",
+        "кто_выигрывает": "конкуренты",
+        "антилидер": "P&G отсутствует",
+        "ссылка_на_антилидера": "",
+        "пробелы": [
+          {
+            "тип": "P&G отсутствует в ответе",
+            "лидер": "",
+            "комментарий": "В ответе нет упоминания брендов P&G"
+          }
+        ]
+      }
+    }
+  }
+]
